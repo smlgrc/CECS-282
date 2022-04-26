@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Deck.cpp
+  SolitairePrime.cpp
+  Generating Code...
+C:\Users\samga\Documents\GitHub\CECS-282\SolitairePrime\SolitairePrime\Card.cpp(62): warning C4715: 'Card::getValue': not all control paths return a value
+  SolitairePrime.vcxproj -> C:\Users\samga\Documents\GitHub\CECS-282\SolitairePrime\Debug\SolitairePrime.exe

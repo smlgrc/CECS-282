@@ -1,0 +1,5 @@
+﻿  myDate.cpp
+C:\Users\samga\Documents\GitHub\CECS-282\myDate\myDate\myDate.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Runner.cpp
+  Generating Code...
+  myDate.vcxproj -> C:\Users\samga\Documents\GitHub\CECS-282\myDate\Debug\myDate.exe
